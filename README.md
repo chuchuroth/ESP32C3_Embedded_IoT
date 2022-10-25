@@ -1,14 +1,13 @@
 # ESP32C3_Embedded_IoT
 
-## project schedule 
+# project schedule 
 
-'''
+```
 codes collection
-'''
+```
 
-
-server chip (strom sensor interfacing)
-'''
+## server chip (strom sensor interfacing)
+```
 1.	Includes
 2.	Main Entry Point
 3.	BT Controller and Stack Initialization
@@ -22,10 +21,10 @@ server chip (strom sensor interfacing)
 11.	Connection Event
 12.	Managing Read Events
 13.	Managing Write Events
-'''
+```
 
-client chip (actuator/motor interfacing)
-'''
+## client chip (actuator/motor interfacing)
+```
 1.	Main Entry Point
 2.	BT Controller and Stack Initialization
 3.	Application Profiles
@@ -37,6 +36,6 @@ client chip (actuator/motor interfacing)
 9.	Discovering Services
 10.	Getting Characteristics
 11.	Registering for Notifications
-'''
+```
 
 
