@@ -1,0 +1,59 @@
+•  Matter 
+
+•  RainMaker
+
+•  FreeRTOS
+
+•  ESP-Docs
+
+•  Insights (Robustness)
+
+•  Rust
+
+•  User kernel separation 
+
+•  WOKWI (Prototyp Simulator)
+
+•  Asymmetric multiprocessing 
+
+•  Networking 
+
+•  Device management 
+
+•  Espressif IDE
+
+•  Arduino 
+
+•  CircuitPython
+
+•  ESP-IDF 5.0
+
+•  Component manager 
+
+•  Board support package 
+
+•  ESP32s as connectivity Coprozessor 
+
+•  RainMaker
+
+•  ESP-IDF Extension VS Code
+
+•  Micro-services (Toit)
+
+•  Ultra low power (ULP) coprocessor 
+
+•  ESP-IDF Test Framework 
+
+•  esptool.py 
+
+•  Cloud based embedded development 
+
+•  C++
+
+•  FATFS images 
+
+•  Arduino 2.0
+
+•  User interface game with NuttX RTOS
+
+•  OTA Update with Azure
