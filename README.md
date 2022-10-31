@@ -6,7 +6,7 @@
 codes collection
 ```
 
-## server chip (strom sensor interfacing + more scripts in one chip flash)
+## server chip (strom sensor interfacing + multiple sketch into one chip flash)
 ```
 1.	Includes
 2.	Main Entry Point
