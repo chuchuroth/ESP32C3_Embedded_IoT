@@ -42,5 +42,8 @@ codes collection
 
 dev environment
 win + arduino IDE  -> compile success, default examples from IDE
-win + platform IO  -> compile success, examples from GitHub (recommanded)
+win + platform IO  -> compile success, examples from GitHub (important note: .ino .cpp file contain the same code!)
+
+
+
 Ubuntu + platform IO -> success, 
