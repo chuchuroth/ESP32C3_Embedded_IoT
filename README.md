@@ -45,5 +45,4 @@ win + arduino IDE  -> compile success, default examples from IDE
 win + platform IO  -> compile success, examples from GitHub (important note: .ino .cpp file contain the same code!)
 
 
-
-Ubuntu + platform IO -> success, 
+随便把两个sketch合为一体，compile成功，说明基于arduino的语法相对简单，不容易出现语法错误
