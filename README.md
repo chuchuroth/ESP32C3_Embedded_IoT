@@ -50,3 +50,4 @@ codes collection
 1， 同一种语言
 2， 在同一个dev环境里，比如都是基于arduino，或者都是基于platform io
 3, arduino lib builder 好用，因为预先设置有大量header file，但是只支持linux
+4，可以用另一个方法安装arduino，就是在idf底下作为一个component，这个就可以用windows，也不需要装wsl
