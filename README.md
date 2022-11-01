@@ -6,7 +6,7 @@
 codes collection
 ```
 
-## server chip (strom sensor interfacing + multiple sketch into one chip flash)
+## server chip (StromSensor interfacing + multiple sketch into one chip flash)
 ```
 1.	Includes
 2.	Main Entry Point
@@ -49,3 +49,4 @@ codes collection
 关键在于，每个例子都是单个功能，我需要把单个的功能整合在一起，比如ble scan的同时，还output sensor读数，也就是找相应的例子，并且保证他们是
 1， 同一种语言
 2， 在同一个dev环境里，比如都是基于arduino，或者都是基于platform io
+3, arduino lib builder 好用，因为预先设置有大量header file，但是只支持linux
