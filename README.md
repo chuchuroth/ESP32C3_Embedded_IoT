@@ -49,5 +49,10 @@ codes collection
 * 关键在于，每个例子都是单个功能，我需要把单个的功能整合在一起，比如ble scan的同时，还output sensor读数，也就是找相应的例子，并且保证他们是
 * 1， 同一种语言
 * 2， 在同一个dev环境里，比如都是基于arduino，或者都是基于platform io
-* 3, arduino lib builder 好用，因为预先设置有大量header file，但是只支持linux
-* 4，可以用另一个方法安装arduino，就是在idf底下作为一个component，这个就可以用windows，也不需要装wsl
+
+
+
+
+* arduino lib builder 好用，因为预先设置有大量header file，但是只支持linux
+* 可以用另一个方法安装arduino，就是在idf底下作为一个component，这个就可以用windows，也不需要装wsl
+* 其实说穿了就是一系列功能的排列组合，网上找到一些感觉可能有用的code snippet就把链接复制到笔记上，然后标注tool chain，是在什么开发环境下，主程序有几行，header file有几个
