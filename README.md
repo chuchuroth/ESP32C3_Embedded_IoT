@@ -8,8 +8,8 @@ codes collection
 
 ## server chip (StromSensor interfacing + multiple sketch into one chip flash)
 ```
-1.	Includes
-2.	Main Entry Point
+1.	Include header file
+2.	Main Entry Point (initialization)
 3.	BT Controller and Stack Initialization
 4.	Application Profiles
 5.	Setting GAP Parameters
@@ -25,7 +25,7 @@ codes collection
 
 ## client chip (actuator/motor interfacing)
 ```
-1.	Main Entry Point
+1.	Main Entry Point (initialization)
 2.	BT Controller and Stack Initialization
 3.	Application Profiles
 4.	Setting Scan Parameters 
