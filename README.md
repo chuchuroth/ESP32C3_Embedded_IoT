@@ -6,7 +6,7 @@
 codes collection
 ```
 
-## server chip (StromSensor interfacing + multiple sketch into one chip flash)
+## server chip (StromSensor interfacing )
 ```
 1.	Include header file
 2.	Main Entry Point (initialization)
@@ -44,6 +44,9 @@ codes collection
 * win + arduino IDE  -> compile success, default examples from IDE
 * win + platform IO  -> compile success, examples from GitHub (important note: .ino .cpp file contain the same code!)
 
+
+# Secure Boot
+https://docs.espressif.com/projects/esp-idf/en/latest/esp32/security/secure-boot-v1.html#signed-app-verify-howto
 
 * 随便把两个sketch合为一体，compile成功，说明基于arduino的语法相对简单，不容易出现语法错误
 * 关键在于，每个例子都是单个功能，我需要把单个的功能整合在一起，比如ble scan的同时，还output sensor读数，也就是找相应的例子，并且保证他们是
