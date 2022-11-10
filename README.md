@@ -59,3 +59,7 @@ https://docs.espressif.com/projects/esp-idf/en/latest/esp32/security/secure-boot
 * arduino lib builder 好用，因为预先设置有大量header file，但是只支持linux
 * 可以用另一个方法安装arduino，就是在idf底下作为一个component，这个就可以用windows，也不需要装wsl
 * 其实说穿了就是一系列功能的排列组合，网上找到一些感觉可能有用的code snippet就把链接复制到笔记上，然后标注tool chain，是在什么开发环境下，主程序有几行，header file有几个……不能没有思路，一定要有思路
+
+
+
+`some codes`
